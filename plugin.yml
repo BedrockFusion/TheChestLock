@@ -1,5 +1,5 @@
 name: TheChestLock
-version: 1.0.0
 api: 5.0.0
+version: 1.0.0
 author: BedrockFusion
 main: BedrockFusion\ChestLock\Loader
