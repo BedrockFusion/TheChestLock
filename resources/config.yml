@@ -1,0 +1,11 @@
+locking-chest-message: "&aYou have lock the chest."
+unlocking-chest-message: "&aYou have unlock the chest."
+chest-locked-message: "&cThis chest is locked!"
+break-locked-chest-message: "&cYou broke the locked chest!"
+
+lock-form-title: "&l&8Lock Your Chest"
+lock-form-description: "&7You confirm locking the chest?"
+lock-form-button1: "&aYes"
+lock-form-button2: "&cNo"
+
+chest-key-name: "&d{identifier}&7's lock"
